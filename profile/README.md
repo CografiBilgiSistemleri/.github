@@ -2,3 +2,48 @@
 
 - [Commit Mesajı Nasıl Yazılmalı?](https://cbea.ms/git-commit/)
 - [GitFlow Akışı](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+
+- **Yazılım ekiplerinde kim ne yapar?**
+    - Frontend Developer
+    - Backend Developer
+    - QA nedir?
+    - UI/UX Designer kimdir?
+- **Frontend nedir? Backend nedir?**
+    - HTML ne işe yarar?
+    - CSS ile ne yapılır?
+    - JavaScript ne yapar?
+- **API nedir?**
+    - Endpoint ne demek?
+    - JSON neye benzer?
+    - Tarayıcıda istek nasıl atılır?
+- **Veritabanı (DB) nedir?**
+    - SQL nedir?
+    - NoSQL farkı ne?
+- **İş planı nedir?**
+    - Scrum nedir?
+    - Daily ne zaman, neden yapılır?
+    - Kanban tahtası nasıl kullanılır?
+- **Versiyon kontrolü nedir?**
+    - Git nedir?
+    - GitHub / GitLab ne işe yarar?
+    - Commit / push / pull / branch ne demek?
+- **Tarayıcı geliştirici araçları**
+    - "Inspect" nedir?
+    - Console ile ne kontrol edilir?
+    - Hata nasıl yakalanır?
+- **Mobil uyumluluk nedir?**
+    - Responsive ne demek?
+    - Media query ne işe yarar?
+- **Markdown nedir?**
+    - README dosyası ne işe yarar?
+    - .md uzantısı neden önemli?
+- **Test nedir?**
+    - Yazılımda neden test yapılır?
+    - Manual test / otomasyon farkı nedir?
+- **Figma nedir?**
+    - Arayüz tasarımı neye benzer?
+    - Tasarımdan koda geçiş nasıl olur?
+- **Deploy nedir?**
+    - Projeyi yayına almak ne demek?
+    - Docker, Netlify, Github Pages Nedir?
