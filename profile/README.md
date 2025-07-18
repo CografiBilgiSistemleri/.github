@@ -9,37 +9,39 @@
     - Backend Developer
     - QA nedir?
     - UI/UX Designer kimdir?
+- **Markdown nedir?**
+    - README dosyası ne işe yarar?
+    - .md uzantısı neden önemli?
 - **Frontend nedir? Backend nedir?**
-    - HTML ne işe yarar?
-    - CSS ile ne yapılır?
-    - JavaScript ne yapar?
-- **API nedir?**
-    - Endpoint ne demek?
-    - JSON neye benzer?
-    - Tarayıcıda istek nasıl atılır?
-- **Veritabanı (DB) nedir?**
-    - SQL nedir?
-    - NoSQL farkı ne?
-- **İş planı nedir?**
-    - Scrum nedir?
-    - Daily ne zaman, neden yapılır?
-    - Kanban tahtası nasıl kullanılır?
-- **Versiyon kontrolü nedir?**
-    - Git nedir?
-    - GitHub / GitLab ne işe yarar?
-    - Commit / push / pull / branch ne demek?
+    - HTTP, HTTPS, Domain, DNS, İnternet nasıl çalışır?  
+    - HTML, CSS, Javascript ne işe yarar?
+    - Semantic HTML nedir? CSS Flexbox nedir?
+    - Javascript nedir, nasıl çalışır? Fetch API, DOM Manipulation nedir? LocalStorage nedir? Event Listener nedir?
+    - Maplibre ile harita tabanlı uygulama geliştirmesi
+- **Mobil uyumluluk nedir?**
+    - Responsive ne demek?
+    - Media query ne işe yarar?
 - **Tarayıcı geliştirici araçları**
     - "Inspect" nedir?
     - Console ile ne kontrol edilir?
     - Hata nasıl yakalanır?
-- **Mobil uyumluluk nedir?**
-    - Responsive ne demek?
-    - Media query ne işe yarar?
-- **Markdown nedir?**
-    - README dosyası ne işe yarar?
-    - .md uzantısı neden önemli?
+- **API nedir?**
+    - Endpoint ne demek?
+    - JSON nedir, neye benzer? REST API nedir?
+    - Tarayıcıda istek nasıl atılır?
+    - HTTP metodları ve hata kodları nelerdir, ne işe yarar, nasıl kullanılır?
+- **Veritabanı (DB) nedir?**
+    - SQL nedir? NoSql nedir? Farkları nelerdir?
+- **İş planı nedir?**
+    - Scrum nedir? Agile nedir?
+    - Daily ne zaman, neden yapılır?
+    - Kanban tahtası nasıl kullanılır?
+- **Versiyon kontrolü nedir?**
+    - Git nedir, nasıl kullanılır?
+    - GitHub / GitLab ne işe yarar?
+    - Commit / push / pull / branch ne demek?
 - **Test nedir?**
-    - Yazılımda neden test yapılır?
+    - Yazılımda neden test yapılır? Nasıl yapılır?
     - Manual test / otomasyon farkı nedir?
 - **Figma nedir?**
     - Arayüz tasarımı neye benzer?
