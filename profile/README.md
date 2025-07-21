@@ -3,12 +3,18 @@
 - [Commit Mesajı Nasıl Yazılmalı?](https://cbea.ms/git-commit/)
 - [GitFlow Akışı](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
-
+- **İş planı nedir?**
+    - Scrum nedir? Agile nedir?
+    - Daily ne zaman, neden yapılır?
+    - Kanban tahtası nasıl kullanılır?
 - **Yazılım ekiplerinde kim ne yapar?**
     - Frontend Developer
     - Backend Developer
     - QA nedir?
     - UI/UX Designer kimdir?
+- **Figma nedir?**
+    - Arayüz tasarımı neye benzer?
+    - Tasarımdan koda geçiş nasıl olur?
 - **Markdown nedir?**
     - README dosyası ne işe yarar?
     - .md uzantısı neden önemli?
@@ -25,27 +31,27 @@
     - "Inspect" nedir?
     - Console ile ne kontrol edilir?
     - Hata nasıl yakalanır?
+- **Veritabanı (DB) nedir?**
+    - İlişkisel veri tabanı nedir(İlişki kavramı ve türleri nelerdir)?
+    - ER diyagramı nedir ve ne için kullanılır? Bileşenleri Nelerdir ?
+    - SQL-NoSql nedir? Farkları ve Kullanım Senaryoları nelerdir?
+    - Cache nedir, neden kullanılır?
 - **API nedir?**
-    - Endpoint ne demek?
+    - Endpoint ne demek? Bileşenleri nelerdir ? 
     - JSON nedir, neye benzer? REST API nedir?
     - Tarayıcıda istek nasıl atılır?
     - HTTP metodları ve hata kodları nelerdir, ne işe yarar, nasıl kullanılır?
-- **Veritabanı (DB) nedir?**
-    - SQL nedir? NoSql nedir? Farkları nelerdir?
-- **İş planı nedir?**
-    - Scrum nedir? Agile nedir?
-    - Daily ne zaman, neden yapılır?
-    - Kanban tahtası nasıl kullanılır?
+    - HTTP nedir ? 
+    - ORM Nedir ? Neden tercih edilir ? 
 - **Versiyon kontrolü nedir?**
+    - Versiyonlama neden önemlidir majör/minör versiyon terimleri nedir ?
     - Git nedir, nasıl kullanılır?
     - GitHub / GitLab ne işe yarar?
     - Commit / push / pull / branch ne demek?
 - **Test nedir?**
     - Yazılımda neden test yapılır? Nasıl yapılır?
     - Manual test / otomasyon farkı nedir?
-- **Figma nedir?**
-    - Arayüz tasarımı neye benzer?
-    - Tasarımdan koda geçiş nasıl olur?
 - **Deploy nedir?**
     - Projeyi yayına almak ne demek?
     - Docker, Netlify, Github Pages Nedir?
+    - CI/CD nedir?
